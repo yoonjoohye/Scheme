@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:checked="true"
+        android:icon="@drawable/home"
+        android:title="@string/title_home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tt"
+        android:checked="false"
+        android:icon="@drawable/tt"
+        android:title="@string/title_tt"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/td"
+        android:checked="false"
+        android:icon="@drawable/td"
+        android:title="@string/title_td"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/cal"
+        android:checked="false"
+        android:icon="@drawable/cal"
+        android:title="@string/title_cal"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/mp"
+        android:checked="false"
+        android:icon="@drawable/mp"
+        android:title="@string/title_mp"
+        app:showAsAction="ifRoom" />
+</menu>

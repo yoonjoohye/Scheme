@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SCHEME</string>
+    <string name="title_home">홈화면</string>
+    <string name="title_tt">시간표</string>
+    <string name="title_td">할일리스트</string>
+    <string name="title_cal">계산기</string>
+    <string name="title_mp">마이페이지</string>
+</resources>
